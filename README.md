@@ -19,7 +19,7 @@ New enemy types appear as you descend. Defeating them grants XP and gold based o
 ## Progression
 
 - Defeating goblins gives XP and gold. Leveling up raises maximum health, restores some health, and grants a skill point.
-- Open **Skills** to choose from 15 upgrades across the Warrior, Survivor, and Scavenger branches. Spend one point per node; each branch has level gates and connected prerequisites.
+- Open **Skills** to choose from 15 upgrades across the Warrior, Survivor, and Scavenger branches. The tree is organized into Foundation, Growth, Specialty, Mastery, and Capstone sections. Spend one point per node; each path has level gates and connected prerequisites.
 - Warrior improves attacks and critical hits; Survivor adds health, armor, and healing; Scavenger improves XP, loot, monster rewards, and shop prices.
 - Open **Shop** to buy healing potions, attack upgrades, and armor upgrades with gold.
 - When health reaches zero, choose **New run** to start over.
