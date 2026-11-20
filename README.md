@@ -9,6 +9,6 @@ Open the [live game](https://jacealarkin.github.io/game1/) or run `index.html` f
 ## Progression
 
 - Defeating goblins gives XP and gold. Leveling up raises maximum health, restores some health, and grants a skill point.
-- Open **Skills** to learn Power Training, Vitality, Lucky Find, and Goblin Bounty. Some skills require a higher level or another skill first.
+- Open **Skills** to choose the Warrior, Survivor, or Scavenger branch. Learn connected nodes to unlock the skills farther down each path.
 - Open **Shop** to buy healing potions, attack upgrades, and armor upgrades with gold.
 - When health reaches zero, choose **New run** to start over.
